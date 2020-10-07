@@ -3,6 +3,6 @@
 export PYPE_DEBUG=3
 export PYTHONDONTWRITEBYTECODE=1
 
-pushd /mnt/pipeline/pype-production/pype-setup
+pushd /opt/pype-setup
 
 . pype eventserver
